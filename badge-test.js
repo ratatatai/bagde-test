@@ -1,1 +1,1 @@
-console.log('badge-test');
+console.log('badge-test +');
